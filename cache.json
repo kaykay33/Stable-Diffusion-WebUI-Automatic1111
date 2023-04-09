@@ -1,0 +1,20 @@
+{
+    "hashes": {
+        "checkpoint/v1-5-pruned-emaonly.safetensors": {
+            "mtime": 1680986772.4049723,
+            "sha256": "6ce0161689b3853acaa03779ec93eafe75a02f4ced659bee03f50797806fa2fa"
+        },
+        "checkpoint/RealisticVision_V2-noEMA.safetensors": {
+            "mtime": 1680742735.805611,
+            "sha256": "e6415c48928aedc891237556125e56ebd0bb3d9f0982d469ebb719d1117dfb92"
+        },
+        "checkpoint/revAnimated_v12.safetensors": {
+            "mtime": 1680994973.0596433,
+            "sha256": "02aecf0c7d299547b5ff17fdb4bd7f5a7571b1a8e4312888d78f1ead61afe7c3"
+        },
+        "checkpoint/ProtoGen_X5.8.safetensors": {
+            "mtime": 1681002338.9817934,
+            "sha256": "6a21b428a3fb7286f024f958c761ea1a36a5061c3d3c1eb6a815c88af0e97cb0"
+        }
+    }
+}
